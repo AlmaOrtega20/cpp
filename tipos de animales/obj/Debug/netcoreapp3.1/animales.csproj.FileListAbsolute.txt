@@ -1,0 +1,13 @@
+C:\Users\luise\OneDrive\Escritorio\LenguajeII\tipos de animales\bin\Debug\netcoreapp3.1\animales.exe
+C:\Users\luise\OneDrive\Escritorio\LenguajeII\tipos de animales\bin\Debug\netcoreapp3.1\animales.deps.json
+C:\Users\luise\OneDrive\Escritorio\LenguajeII\tipos de animales\bin\Debug\netcoreapp3.1\animales.runtimeconfig.json
+C:\Users\luise\OneDrive\Escritorio\LenguajeII\tipos de animales\bin\Debug\netcoreapp3.1\animales.runtimeconfig.dev.json
+C:\Users\luise\OneDrive\Escritorio\LenguajeII\tipos de animales\bin\Debug\netcoreapp3.1\animales.dll
+C:\Users\luise\OneDrive\Escritorio\LenguajeII\tipos de animales\bin\Debug\netcoreapp3.1\animales.pdb
+C:\Users\luise\OneDrive\Escritorio\LenguajeII\tipos de animales\obj\Debug\netcoreapp3.1\animales.csprojAssemblyReference.cache
+C:\Users\luise\OneDrive\Escritorio\LenguajeII\tipos de animales\obj\Debug\netcoreapp3.1\animales.AssemblyInfoInputs.cache
+C:\Users\luise\OneDrive\Escritorio\LenguajeII\tipos de animales\obj\Debug\netcoreapp3.1\animales.AssemblyInfo.cs
+C:\Users\luise\OneDrive\Escritorio\LenguajeII\tipos de animales\obj\Debug\netcoreapp3.1\animales.csproj.CoreCompileInputs.cache
+C:\Users\luise\OneDrive\Escritorio\LenguajeII\tipos de animales\obj\Debug\netcoreapp3.1\animales.dll
+C:\Users\luise\OneDrive\Escritorio\LenguajeII\tipos de animales\obj\Debug\netcoreapp3.1\animales.pdb
+C:\Users\luise\OneDrive\Escritorio\LenguajeII\tipos de animales\obj\Debug\netcoreapp3.1\animales.genruntimeconfig.cache

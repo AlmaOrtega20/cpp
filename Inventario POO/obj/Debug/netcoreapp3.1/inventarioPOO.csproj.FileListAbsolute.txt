@@ -1,0 +1,13 @@
+C:\Users\luise\OneDrive\Escritorio\LenguajeII\Inventario POO\bin\Debug\netcoreapp3.1\inventarioPOO.exe
+C:\Users\luise\OneDrive\Escritorio\LenguajeII\Inventario POO\bin\Debug\netcoreapp3.1\inventarioPOO.deps.json
+C:\Users\luise\OneDrive\Escritorio\LenguajeII\Inventario POO\bin\Debug\netcoreapp3.1\inventarioPOO.runtimeconfig.json
+C:\Users\luise\OneDrive\Escritorio\LenguajeII\Inventario POO\bin\Debug\netcoreapp3.1\inventarioPOO.runtimeconfig.dev.json
+C:\Users\luise\OneDrive\Escritorio\LenguajeII\Inventario POO\bin\Debug\netcoreapp3.1\inventarioPOO.dll
+C:\Users\luise\OneDrive\Escritorio\LenguajeII\Inventario POO\bin\Debug\netcoreapp3.1\inventarioPOO.pdb
+C:\Users\luise\OneDrive\Escritorio\LenguajeII\Inventario POO\obj\Debug\netcoreapp3.1\inventarioPOO.csprojAssemblyReference.cache
+C:\Users\luise\OneDrive\Escritorio\LenguajeII\Inventario POO\obj\Debug\netcoreapp3.1\inventarioPOO.AssemblyInfoInputs.cache
+C:\Users\luise\OneDrive\Escritorio\LenguajeII\Inventario POO\obj\Debug\netcoreapp3.1\inventarioPOO.AssemblyInfo.cs
+C:\Users\luise\OneDrive\Escritorio\LenguajeII\Inventario POO\obj\Debug\netcoreapp3.1\inventarioPOO.csproj.CoreCompileInputs.cache
+C:\Users\luise\OneDrive\Escritorio\LenguajeII\Inventario POO\obj\Debug\netcoreapp3.1\inventarioPOO.dll
+C:\Users\luise\OneDrive\Escritorio\LenguajeII\Inventario POO\obj\Debug\netcoreapp3.1\inventarioPOO.pdb
+C:\Users\luise\OneDrive\Escritorio\LenguajeII\Inventario POO\obj\Debug\netcoreapp3.1\inventarioPOO.genruntimeconfig.cache
